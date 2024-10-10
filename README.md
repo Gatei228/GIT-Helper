@@ -6,7 +6,7 @@ git init
 ```
 ### Добавление удаленного репозитория <br> 
 ```bash
-git remote add origin https://github.com/твое_имя/имя_проекта.git
+git remote add origin https://github.com/Gatei228/имя_проекта.git
 ```
 ### Добавление всех файлов проекта в индекс <br> 
 ```bash
@@ -25,7 +25,7 @@ git push -u origin master
 # Разное 
 ### Клонирование репозитория с GitHub
 ```bash
-git clone https://github.com/username/repository.git новое_имя_папки_если_хош
+git clone https://github.com/Gatei228/repository.git новое_имя_папки_если_хош
 ```
 
 # Разное 
