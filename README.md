@@ -37,7 +37,7 @@ git remote -v
 ### Ветки
 ### Просмотр всех веток
 ```bash 
-get branch
+git branch
 ```
 ### Переключение между ветками 
 ```bash 
