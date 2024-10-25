@@ -27,13 +27,10 @@ git push -u origin master
 ```bash
 git clone https://github.com/Gatei228/repository.git новое_имя_папки_если_хош
 ```
-
-# Разное 
 ### Проверка удалённых репозиториев
 ```bash
 git remote -v
 ```
-
 ### Ветки
 ### Просмотр всех веток
 ```bash 
